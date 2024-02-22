@@ -60,7 +60,7 @@ df = pd.DataFrame({
 })
 
 
-# In[228]:
+# In[296]:
 
 
 PlayerTeamsList = []
@@ -72,7 +72,7 @@ NationList = []
 ValueList = []
 
 
-# In[229]:
+# In[297]:
 
 
 for x in range(0, len(TeamLinksList)):
@@ -108,6 +108,26 @@ for x in range(0, len(TeamLinksList)):
         str_Position = str(Positions[i]).split('<td>', 1)[1].split('</td>', 1)[0].split('\n ', 1)[1].split('           ', 1)[1].split('        ',1)[0]
         PositionList.append(str_Position)
     
+    grouped_positionList = []
+    
+    for j in range(0, len(PositionList)):
+        if 'Striker' in PositionList[j]:
+            grouped_positionList.append('Forwards')
+        elif 'Forward' in PositionList[j]:
+            grouped_positionList.append('Forwards')
+        elif 'Midfield' in PositionList[j]:
+            grouped_positionList.append('Midfielders')
+        elif 'Midfielder' in PositionList[j]:
+            grouped_positionList.append('Midfielders')
+        elif 'Winger' in PositionList[j]:
+            grouped_positionList.append('Midfielders')
+        elif 'Back' in PositionList[j]:
+            grouped_positionList.append('Defenders')
+        elif 'Defender' in PositionList[j]:
+            grouped_positionList.append('Defenders')
+        else:
+            grouped_positionList.append(PositionList[j])
+    
     for i in range(2, (len(Players)*3),3):
         str_Nationality = str(Nationality[i]).split('" class',1)[0].split('<img alt="',1)[1]
         NationList.append(str_Nationality)
@@ -136,7 +156,43 @@ for x in range(0, len(TeamLinksList)):
     
 
 
-# In[230]:
+# In[298]:
+
+
+PositionList
+len(PositionList)
+
+
+# In[299]:
+
+
+grouped_positionList = []
+    
+for j in range(0, len(PositionList)):
+    if 'Striker' in PositionList[j]:
+        grouped_positionList.append('Forwards')
+    elif 'Forward' in PositionList[j]:
+        grouped_positionList.append('Forwards')
+    elif 'Midfield' in PositionList[j]:
+        grouped_positionList.append('Midfielders')
+    elif 'Midfielder' in PositionList[j]:
+        grouped_positionList.append('Midfielders')
+    elif 'Winger' in PositionList[j]:
+        grouped_positionList.append('Midfielders')
+    elif 'Back' in PositionList[j]:
+        grouped_positionList.append('Defenders')
+    elif 'Defender' in PositionList[j]:
+        grouped_positionList.append('Defenders')
+    else:
+        grouped_positionList.append(PositionList[j])
+        
+
+print(grouped_positionList)
+print(len(grouped_positionList))
+            
+
+
+# In[300]:
 
 
 final_df = pd.DataFrame({
@@ -145,49 +201,50 @@ final_df = pd.DataFrame({
                          "Number":NumberList,
                          "Age":AgeList,
                          "Position":PositionList,
+                         "Group Position":grouped_positionList,
                          "Nationality":NationList,
                          "Value EUR":cleaned_values                        
                         })
 
 
-# In[231]:
+# In[301]:
 
 
 final_df
 
 
-# In[232]:
+# In[310]:
 
 
 # Export the DataFrame to an Excel file
-final_df.to_excel(r"C:\Users\izzat\OneDrive\Desktop\Sandbox\TransfermrktWebScrape\MalaysiaSuperLeague_TeamsSquadAnalysis\MSL_TeamsSquadData.xlsx", index=False)
+final_df.to_excel(r"C:\Users\izzat\OneDrive\Desktop\MalaysiaSuperLeague_TeamsSquadAnalysis\MSL_TeamsSquadData.xlsx", index=False)
 
 
-# In[239]:
+# In[311]:
 
 
 # Export the DataFrame to an csv file
-final_df.to_csv(r"C:\Users\izzat\OneDrive\Desktop\Sandbox\TransfermrktWebScrape\MalaysiaSuperLeague_TeamsSquadAnalysis\MSL_TeamsSquadData.csv", index=False)
+final_df.to_csv(r"C:\Users\izzat\OneDrive\Desktop\MalaysiaSuperLeague_TeamsSquadAnalysis\MSL_TeamsSquadData.csv", index=False)
 
 
-# In[240]:
+# In[312]:
 
 
 # Load the dataset
-msldata = pd.read_csv(r"C:\Users\izzat\OneDrive\Desktop\Sandbox\TransfermrktWebScrape\MalaysiaSuperLeague_TeamsSquadAnalysis\MSL_TeamsSquadData.csv")
+msldata = pd.read_csv(r"C:\Users\izzat\OneDrive\Desktop\MalaysiaSuperLeague_TeamsSquadAnalysis\MSL_TeamsSquadData.csv")
 
 # Display the first few rows of the dataset
-print(msldata.head())
+#print(msldata.head())
 
 
-# In[241]:
+# In[313]:
 
 
 # Display column information
-print(msldata.info())
+#print(msldata.info())
 
 
-# In[242]:
+# In[315]:
 
 
 # Plotting the distribution of players
@@ -196,52 +253,24 @@ sns.set(font_scale=1.0)
 plt.figure(figsize=(9, 5))
 sns.countplot(data=msldata, x='Team')
 plt.title('Distribution of Players')
-plt.xlabel('Team', fontsize=0.1)
+plt.xlabel('Team', fontsize=10)
 plt.ylabel('No of Players', fontsize=10)
 # Rotate the tick labels in the second subplot
 plt.xticks(rotation=90)
 plt.show()
 
 
-# In[254]:
-
-
-# Plotting Value 
-sns.set(style="whitegrid")
-sns.set(font_scale=1.0)
-plt.figure(figsize=(9, 5))
-sns.barplot(msldata, x="Team", y="Value EUR")
-plt.title('Total Players Value Per Team')
-plt.xlabel('Team', fontsize=10)
-plt.ylabel('Value (mEUR)', fontsize=10)
-# Rotate the tick labels in the second subplot
-plt.xticks(rotation=90)
-plt.show()
-
-
-# In[243]:
+# In[316]:
 
 
 # Display Top 10 Most Expensive Players in MSL 24/25 Season
-Top10Value = msldata.nlargest(n=20, columns=['Value EUR'])
+Top10Value = msldata.nlargest(n=10, columns=['Value EUR'])
 
 # Display Top 10 Least Expensive Players in MSL 24/25 Season
-Bottom10Value = msldata.nsmallest(n=20, columns=['Value EUR'])
+Bottom10Value = msldata.nsmallest(n=10, columns=['Value EUR'])
 
 
-# In[244]:
-
-
-Top10Value
-
-
-# In[245]:
-
-
-Bottom10Value
-
-
-# In[250]:
+# In[317]:
 
 
 # Plotting Value 
@@ -257,7 +286,7 @@ plt.xticks(rotation=90)
 plt.show()
 
 
-# In[252]:
+# In[318]:
 
 
 # Plotting Top 10 Least Expensive Players in MSL 24/25 Season
@@ -273,10 +302,56 @@ plt.xticks(rotation=90)
 plt.show()
 
 
-# In[ ]:
+# In[366]:
 
 
+pv_count = msldata.pivot_table('Value EUR', index='Team', columns='Group Position', aggfunc='count')
+pv_sum = msldata.pivot_table('Value EUR', index='Team', columns='Group Position', aggfunc='sum')
+pv_count
+pv_sum
 
+
+# In[369]:
+
+
+# Plotting bar chart from  pv_count
+pv_count.plot(kind='bar', figsize=(12, 6))
+
+# graph title
+plt.title('No of players per position')
+
+# naming the x and y axis
+plt.xlabel('Team')
+plt.ylabel('No of Players')
+
+# Rotate the tick labels in the second subplot
+plt.xticks(rotation=90)
+
+plt.show()
+
+
+# In[390]:
+
+
+from matplotlib.ticker import NullFormatter
+
+def formatter(x, pos):
+    return str(round(x / 1e6))
+
+ax = pv_sum.plot(kind='bar', figsize=(12, 6))
+
+# graph title
+plt.title('Value per position each Team')
+
+# naming the x and y axis
+plt.xlabel('Team')
+plt.ylabel('Value EUR')
+
+#fig, ax = plt.subplots()
+ax.yaxis.set_major_formatter(formatter)
+#ax.yaxis.set_minor_formatter(NullFormatter())
+#ax.plot([0, 1e6])
+ax.text(0, 1.05, "in millions", transform = ax.transAxes, ha = "left", va = "top")
 
 
 # In[ ]:
