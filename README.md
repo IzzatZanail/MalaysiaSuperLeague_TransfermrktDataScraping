@@ -18,11 +18,11 @@ Description: Scrape MSL football teams data
 # Process
 
 ## 1) Import required libraries
-```
+
 - requests
 - BeautifulSoup
 - pandas
-```
+
 
 ## 2) Extract team page links for each season
 
