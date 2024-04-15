@@ -27,7 +27,7 @@ Web scraping project that extracts Malaysian Super League (MSL) football players
 
 ## 2) Extract team page links for each season
 
-![TeamPagesLink](https://github.com/IzzatZanail/MalaysiaSuperLeague_TransfermrktDataScraping/img/TeamPagesLink.png?raw=true)
+![TeamPagesLink](https://github.com/IzzatZanail/MalaysiaSuperLeague_TransfermrktDataScraping/main/img/TeamPagesLink.png?raw=true)
 
 
 
