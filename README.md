@@ -27,6 +27,7 @@ Web scraping project that extracts Malaysian Super League (MSL) football players
 
 ## 2) Extract team page links for each season
 
+/../main/img/TeamPagesLink.png
 
 ## 3) Create a dataframe for the extracted team links
 
@@ -44,4 +45,6 @@ Web scraping project that extracts Malaysian Super League (MSL) football players
 
 
 ## 8) Export the final dataframe to csv file
+
+/../main/img/FinalDataset.png
 
