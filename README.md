@@ -27,11 +27,9 @@ Web scraping project that extracts Malaysian Super League (MSL) football teams a
 
 ## 2) Extract team page links for each season
 
-![TeamPagesLink](https://github.com/IzzatZanail/MalaysiaSuperLeague_TransfermrktDataScraping/main/img/TeamPagesLink.png?raw=true)
+Preview of dataset of extracted Transfermrkt page links for each team and each season:
 
-
-
-/../main/img/TeamPagesLink.png
+<img src="/img/TeamPagesLink.png">
 
 ## 3) Create a dataframe for the extracted team links
 
@@ -47,8 +45,11 @@ Web scraping project that extracts Malaysian Super League (MSL) football teams a
 
 ## 7) Create the final dataframe for the full player data from all teams and all season since 2017 until 2024/25
 
+Preview of the final dataset:
+
+<img src="/img/FinalDataset.png">
 
 ## 8) Export the final dataframe to csv file
 
-/../main/img/FinalDataset.png
+
 
