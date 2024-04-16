@@ -5,12 +5,12 @@ Language: Python 3.12
 Created: 2024-03-21
 Updated: 2024-04-05
 Project: Transfermarkt Malaysia Super League Data Scraper
-Description: Scrape MSL football teams data
+Description: Extract MSL football teams and players data from Transfermarkt
 ```
 
 # Introduction
 
-Web scraping project that extracts Malaysian Super League (MSL) football players data from season 2017 to 2024/25.
+Web scraping project that extracts Malaysian Super League (MSL) football teams and players data from season 2017 to 2024/25 from Transfermarkt website such as Team Name, Player Name, Value in EUR, Position, Numbers and Nationality, cleans up the data for further analysis, and stores data in CSV files.
 
 
 
