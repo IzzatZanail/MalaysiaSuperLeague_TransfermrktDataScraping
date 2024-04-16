@@ -13,9 +13,6 @@ Description: Extract MSL football teams and players data from Transfermarkt
 Web scraping project that extracts Malaysian Super League (MSL) football teams and players data from season 2017 to 2024/25 from Transfermarkt website such as Team Name, Player Name, Value in EUR, Position, Numbers and Nationality, cleans up the data for further analysis, and stores data in CSV files.
 
 
-
-
-
 # Process
 
 1) Import required libraries.
@@ -36,6 +33,7 @@ _Preview of dataset of extracted Transfermrkt page links for each team and each 
 
 4) Export the "Team Links" dataframe to csv file.
 
+_Data can be found in "datacsv" folder._
 
 5) Using each team's page links that were extracted previously, I scrape all player data from every teams, from each season.
 
@@ -50,6 +48,8 @@ _Preview of the final dataset:_
 <img src="/img/FinalDataset.png">
 
 8) Export the final dataframe to csv file.
+
+_Data can be found in "datacsv" folder._
 
 
 
