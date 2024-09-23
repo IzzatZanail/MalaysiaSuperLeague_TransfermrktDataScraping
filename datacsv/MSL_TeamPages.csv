@@ -7,7 +7,7 @@ SEASON,TEAM,SQUAD_SIZE,NO_OF_FOREIGNERS,MARKET_VALUE_EUR,LINK
 2017,Selangor FC II,38,7,2830000.0,https://www.transfermarkt.com/selangor-fa-ii/startseite/verein/36117/saison_id/2016
 2017,Kelantan FC,45,9,2730000.0,https://www.transfermarkt.com/kelantan-fa/startseite/verein/22114/saison_id/2016
 2017,Terengganu FC II,36,6,2580000.0,https://www.transfermarkt.com/terengganu-fc-ii/startseite/verein/35385/saison_id/2016
-2017,FELDA United FC,35,7,2250000.0,https://www.transfermarkt.com/felda-united-fc/startseite/verein/36847/saison_id/2016
+2017,FELDA United FC,35,8,2250000.0,https://www.transfermarkt.com/felda-united-fc/startseite/verein/36847/saison_id/2016
 2017,Penang FC,41,8,2250000.0,https://www.transfermarkt.com/penang-fc/startseite/verein/27577/saison_id/2016
 2017,Perak FC,40,6,1850000.0,https://www.transfermarkt.com/perak-fc/startseite/verein/15826/saison_id/2016
 2017,Sarawak FA,33,6,1430000.0,https://www.transfermarkt.com/sarawak-fa/startseite/verein/22052/saison_id/2016
@@ -62,7 +62,7 @@ SEASON,TEAM,SQUAD_SIZE,NO_OF_FOREIGNERS,MARKET_VALUE_EUR,LINK
 2022,Johor Darul Takzim FC,37,10,8580000.0,https://www.transfermarkt.com/johor-darul-tazim/startseite/verein/15817/saison_id/2021
 2022,Sri Pahang FC,35,8,4200000.0,https://www.transfermarkt.com/sri-pahang-fc/startseite/verein/15824/saison_id/2021
 2022,Selangor FC,34,9,3910000.0,https://www.transfermarkt.com/selangor-fc/startseite/verein/15831/saison_id/2021
-2022,Kedah Darul Aman FC,34,7,3870000.0,https://www.transfermarkt.com/kedah-darul-aman-fc/startseite/verein/15818/saison_id/2021
+2022,Kedah Darul Aman FC,35,7,3870000.0,https://www.transfermarkt.com/kedah-darul-aman-fc/startseite/verein/15818/saison_id/2021
 2022,Sabah FC,30,6,3550000.0,https://www.transfermarkt.com/sabah-fc/startseite/verein/15630/saison_id/2021
 2022,Kuala Lumpur City FC,33,4,3500000.0,https://www.transfermarkt.com/kuala-lumpur-city-fc/startseite/verein/36848/saison_id/2021
 2022,Terengganu FC,33,8,3360000.0,https://www.transfermarkt.com/terengganu-fc/startseite/verein/15838/saison_id/2021
@@ -85,16 +85,16 @@ SEASON,TEAM,SQUAD_SIZE,NO_OF_FOREIGNERS,MARKET_VALUE_EUR,LINK
 2023,Kelantan United,35,10,2620000.0,https://www.transfermarkt.com/kelantan-united/startseite/verein/77911/saison_id/2022
 2023,Kelantan FC,56,10,2500000.0,https://www.transfermarkt.com/kelantan-fa/startseite/verein/22114/saison_id/2022
 2023,PDRM FC,36,9,2410000.0,https://www.transfermarkt.com/pdrm-fa/startseite/verein/21294/saison_id/2022
-2024,Johor Darul Takzim FC,35,13,10050000.0,https://www.transfermarkt.com/johor-darul-tazim/startseite/verein/15817/saison_id/2024
-2024,Selangor FC,31,9,6630000.0,https://www.transfermarkt.com/selangor-fc/startseite/verein/15831/saison_id/2024
-2024,Terengganu FC,31,8,4950000.0,https://www.transfermarkt.com/terengganu-fc/startseite/verein/15838/saison_id/2024
-2024,Kedah Darul Aman FC,27,5,4030000.0000000005,https://www.transfermarkt.com/kedah-darul-aman-fc/startseite/verein/15818/saison_id/2024
+2024,Johor Darul Takzim FC,33,14,10280000.0,https://www.transfermarkt.com/johor-darul-tazim/startseite/verein/15817/saison_id/2024
+2024,Selangor FC,31,8,6680000.0,https://www.transfermarkt.com/selangor-fc/startseite/verein/15831/saison_id/2024
+2024,Terengganu FC,31,9,5100000.0,https://www.transfermarkt.com/terengganu-fc/startseite/verein/15838/saison_id/2024
 2024,Sabah FC,34,8,3890000.0,https://www.transfermarkt.com/sabah-fc/startseite/verein/15630/saison_id/2024
 2024,Sri Pahang FC,26,5,3800000.0,https://www.transfermarkt.com/sri-pahang-fc/startseite/verein/15824/saison_id/2024
+2024,Kedah Darul Aman FC,40,5,3750000.0,https://www.transfermarkt.com/kedah-darul-aman-fc/startseite/verein/15818/saison_id/2024
 2024,Kuala Lumpur City FC,29,5,3380000.0,https://www.transfermarkt.com/kuala-lumpur-city-fc/startseite/verein/36848/saison_id/2024
 2024,Perak FC,27,8,3030000.0,https://www.transfermarkt.com/perak-fc/startseite/verein/15826/saison_id/2024
-2024,Kelantan Darul Naim,33,9,2610000.0,https://www.transfermarkt.com/kelantan-united/startseite/verein/77911/saison_id/2024
-2024,Kuching City,35,9,2600000.0,https://www.transfermarkt.com/kuching-city/startseite/verein/62736/saison_id/2024
+2024,Kuching City,37,10,2920000.0,https://www.transfermarkt.com/kuching-city/startseite/verein/62736/saison_id/2024
 2024,Negeri Sembilan FC,31,7,2560000.0,https://www.transfermarkt.com/negeri-sembilan-fa/startseite/verein/12363/saison_id/2024
-2024,PDRM FC,30,7,2470000.0,https://www.transfermarkt.com/pdrm-fa/startseite/verein/21294/saison_id/2024
-2024,Penang FC,29,4,2300000.0,https://www.transfermarkt.com/penang-fc/startseite/verein/27577/saison_id/2024
+2024,PDRM FC,31,7,2550000.0,https://www.transfermarkt.com/pdrm-fa/startseite/verein/21294/saison_id/2024
+2024,Kelantan Darul Naim,38,9,2510000.0,https://www.transfermarkt.com/kelantan-united/startseite/verein/77911/saison_id/2024
+2024,Penang FC,30,5,2450000.0,https://www.transfermarkt.com/penang-fc/startseite/verein/27577/saison_id/2024
