@@ -2997,7 +2997,7 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Johor Darul Ta'zim,La'Vere Corbin-Ong,22,33,Left-Back,Defenders,12.0
 2024,Johor Darul Ta'zim,Matthew Davies,2,29,Right-Back,Defenders,13.0
 2024,Johor Darul Ta'zim,Syahmi Safari,91,26,Right-Back,Midfielders,14.0
-2024,Johor Darul Ta'zim,Afiq Fazail,4,29,Defensive Midfield,Midfielders,15.0
+2024,Johor Darul Ta'zim,Afiq Fazail,4,30,Defensive Midfield,Midfielders,15.0
 2024,Johor Darul Ta'zim,Hong Wan,6,24,Defensive Midfield,Midfielders,16.0
 2024,Johor Darul Ta'zim,Iker Undabarrena,18,29,Central Midfield,Midfielders,400000.0
 2024,Johor Darul Ta'zim,Eddy Israfilov,23,32,Central Midfield,Midfielders,50000.0
@@ -3015,6 +3015,7 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Johor Darul Ta'zim,Jorge Obregón,99,27,Centre-Forward,Forwards,500000.0
 2024,Johor Darul Ta'zim,Bérgson,9,33,Centre-Forward,Forwards,31.0
 2024,Johor Darul Ta'zim,Romel Morales,19,27,Centre-Forward,Forwards,32.0
+2024,Johor Darul Ta'zim,Daryl Sham,81,21,Centre-Forward,Forwards,33.0
 2024,Selangor FC,Kalamullah Al-Hafiz,33,29,Goalkeeper,Goalkeeper,0.0
 2024,Selangor FC,Samuel Somerville,23,30,Goalkeeper,Goalkeeper,1.0
 2024,Selangor FC,Khairulazhan Khalid,1,34,Goalkeeper,Goalkeeper,2.0
@@ -3025,27 +3026,29 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Selangor FC,Safuwan Baharudin,21,33,Centre-Back,Defenders,7.0
 2024,Selangor FC,Harith Haiqal,55,22,Centre-Back,Defenders,8.0
 2024,Selangor FC,Faiz Amer,29,21,Centre-Back,Defenders,9.0
-2024,Selangor FC,Aiman Hakimi,4,19,Centre-Back,Defenders,10.0
-2024,Selangor FC,Fazly Mazlan,22,30,Left-Back,Defenders,11.0
-2024,Selangor FC,V. Ruventhiran,19,23,Left-Back,Defenders,12.0
-2024,Selangor FC,Quentin Cheng,2,24,Right-Back,Defenders,13.0
-2024,Selangor FC,Zikri Khalili,14,22,Right-Back,Midfielders,14.0
-2024,Selangor FC,Raimi Shamsul,30,21,Right-Back,Midfielders,15.0
-2024,Selangor FC,Noor Al-Rawabdeh,8,27,Central Midfield,Midfielders,16.0
-2024,Selangor FC,Mukhairi Ajmal,10,22,Central Midfield,Midfielders,400000.0
-2024,Selangor FC,Nooa Laine,6,21,Central Midfield,Midfielders,50000.0
-2024,Selangor FC,Alex Agyarkwa,24,24,Central Midfield,Midfielders,19.0
-2024,Selangor FC,Izwan Yuslan,76,20,Central Midfield,Midfielders,20.0
-2024,Selangor FC,Haiqal Haqeemi,71,20,Central Midfield,Midfielders,21.0
-2024,Selangor FC,Yohandry Orozco,16,33,Attacking Midfield,Midfielders,1500000.0
-2024,Selangor FC,Aliff Haiqal,77,24,Attacking Midfield,Midfielders,23.0
-2024,Selangor FC,Syahir Bashah,43,23,Attacking Midfield,Midfielders,600000.0
-2024,Selangor FC,Faisal Halim,7,26,Left Winger,Midfielders,25.0
-2024,Selangor FC,Danial Asri,17,24,Left Winger,Midfielders,26.0
-2024,Selangor FC,Alvin Fortes,11,30,Right Winger,Forwards,27.0
-2024,Selangor FC,Harry Danish,31,20,Right Winger,Forwards,1500000.0
-2024,Selangor FC,Ali Olwan,90,24,Centre-Forward,Forwards,500000.0
-2024,Selangor FC,Ronnie Fernández,9,33,Centre-Forward,Forwards,500000.0
+2024,Selangor FC,Mohammad Abualnadi,33,23,Centre-Back,Defenders,10.0
+2024,Selangor FC,Aiman Hakimi,4,19,Centre-Back,Defenders,11.0
+2024,Selangor FC,Fazly Mazlan,22,30,Left-Back,Defenders,12.0
+2024,Selangor FC,V. Ruventhiran,19,23,Left-Back,Defenders,13.0
+2024,Selangor FC,Quentin Cheng,2,24,Right-Back,Midfielders,14.0
+2024,Selangor FC,Zikri Khalili,14,22,Right-Back,Midfielders,15.0
+2024,Selangor FC,Raimi Shamsul,30,21,Right-Back,Midfielders,16.0
+2024,Selangor FC,Nikola Jambor,-,29,Defensive Midfield,Midfielders,400000.0
+2024,Selangor FC,Noor Al-Rawabdeh,8,27,Central Midfield,Midfielders,50000.0
+2024,Selangor FC,Mukhairi Ajmal,10,22,Central Midfield,Midfielders,19.0
+2024,Selangor FC,Nooa Laine,6,21,Central Midfield,Midfielders,20.0
+2024,Selangor FC,Alex Agyarkwa,24,24,Central Midfield,Midfielders,21.0
+2024,Selangor FC,Izwan Yuslan,76,20,Central Midfield,Midfielders,1500000.0
+2024,Selangor FC,Haiqal Haqeemi,71,20,Central Midfield,Midfielders,23.0
+2024,Selangor FC,Yohandry Orozco,16,33,Attacking Midfield,Midfielders,600000.0
+2024,Selangor FC,Aliff Haiqal,77,24,Attacking Midfield,Midfielders,25.0
+2024,Selangor FC,Syahir Bashah,43,23,Attacking Midfield,Midfielders,26.0
+2024,Selangor FC,Faisal Halim,7,26,Left Winger,Forwards,27.0
+2024,Selangor FC,Danial Asri,17,24,Left Winger,Forwards,1500000.0
+2024,Selangor FC,Alvin Fortes,11,30,Right Winger,Forwards,500000.0
+2024,Selangor FC,Harry Danish,31,20,Right Winger,Forwards,500000.0
+2024,Selangor FC,Ali Olwan,90,24,Centre-Forward,Forwards,31.0
+2024,Selangor FC,Ronnie Fernández,9,33,Centre-Forward,Forwards,32.0
 2024,Terengganu FC,Suhaimi Husin,38,30,Goalkeeper,Goalkeeper,0.0
 2024,Terengganu FC,Rahadiazli Rahalim,1,23,Goalkeeper,Goalkeeper,1.0
 2024,Terengganu FC,Syed Nasrulhaq,29,25,Goalkeeper,Goalkeeper,2.0
@@ -3069,14 +3072,14 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Terengganu FC,Amirul Syazwan Nor Azmi,52,26,Attacking Midfield,Midfielders,20.0
 2024,Terengganu FC,Akhyar Rashid,33,25,Left Winger,Midfielders,21.0
 2024,Terengganu FC,Syafik Ismail,19,24,Left Winger,Midfielders,1500000.0
-2024,Terengganu FC,Nor Hakim Hassan,18,32,Left Winger,Midfielders,23.0
+2024,Terengganu FC,Nor Hakim Hassan,18,33,Left Winger,Midfielders,23.0
 2024,Terengganu FC,Safawi Rasid,11,27,Right Winger,Midfielders,600000.0
 2024,Terengganu FC,Nik Sharif Haseefy,88,27,Right Winger,Midfielders,25.0
 2024,Terengganu FC,Nelson Bonilla,99,34,Centre-Forward,Midfielders,26.0
 2024,Terengganu FC,Ivan Mamut,7,27,Centre-Forward,Forwards,27.0
 2024,Terengganu FC,Ismaheel Akinade,9,30,Centre-Forward,Forwards,1500000.0
 2024,Terengganu FC,Syahmi Zamri,46,24,Centre-Forward,Forwards,500000.0
-2024,Terengganu FC,Chukwu Chijioke,80,26,Centre-Forward,Forwards,500000.0
+2024,Terengganu FC,Chukwu Chijioke,80,27,Centre-Forward,Forwards,500000.0
 2024,Sabah FC,Khairul Fahmi,19,35,Goalkeeper,Goalkeeper,0.0
 2024,Sabah FC,Damien Lim,31,27,Goalkeeper,Goalkeeper,1.0
 2024,Sabah FC,Ramzi Mustakim,1,25,Goalkeeper,Goalkeeper,2.0
@@ -3103,7 +3106,7 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Sabah FC,Farhan Roslan,8,27,Left Winger,Midfielders,23.0
 2024,Sabah FC,Shahrol Nizam,30,24,Left Winger,Midfielders,600000.0
 2024,Sabah FC,Rozaimi Rahman,66,31,Left Winger,Midfielders,25.0
-2024,Sabah FC,Miguel Cifuentes,7,33,Right Winger,Midfielders,26.0
+2024,Sabah FC,Miguel Cifuentes,7,34,Right Winger,Midfielders,26.0
 2024,Sabah FC,S. Kumaahran,12,28,Right Winger,Forwards,27.0
 2024,Sabah FC,Ummareng Bacok,29,30,Right Winger,Forwards,1500000.0
 2024,Sabah FC,Darren Lok,28,33,Centre-Forward,Forwards,500000.0
@@ -3119,7 +3122,7 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Sri Pahang FC,Fadhli Shas,27,33,Centre-Back,Defenders,5.0
 2024,Sri Pahang FC,Adam Nor Azlin,3,28,Centre-Back,Defenders,6.0
 2024,Sri Pahang FC,Hasnul Zaim,44,22,Centre-Back,Defenders,7.0
-2024,Sri Pahang FC,Ibrahim Manusi,30,22,Centre-Back,Defenders,8.0
+2024,Sri Pahang FC,Ibrahim Manusi,30,23,Centre-Back,Defenders,8.0
 2024,Sri Pahang FC,Azwan Aripin,23,28,Left-Back,Defenders,9.0
 2024,Sri Pahang FC,Syazwan Andik,6,28,Left-Back,Defenders,10.0
 2024,Sri Pahang FC,Ashar Al-Aafiz,13,29,Right-Back,Defenders,11.0
@@ -3146,14 +3149,14 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Kedah Darul Aman FC,Cleylton,23,31,Centre-Back,Defenders,12.0
 2024,Kedah Darul Aman FC,Ariff Farhan,27,28,Left-Back,Defenders,13.0
 2024,Kedah Darul Aman FC,Zamri Pin Ramli,30,33,Left-Back,Midfielders,14.0
-2024,Kedah Darul Aman FC,Rizal Ghazali,15,31,Right-Back,Midfielders,15.0
+2024,Kedah Darul Aman FC,Rizal Ghazali,15,32,Right-Back,Midfielders,15.0
 2024,Kedah Darul Aman FC,Wan Amirul Afiq,18,32,Right-Back,Midfielders,16.0
 2024,Kedah Darul Aman FC,Kamil Akmal,66,25,Right-Back,Midfielders,400000.0
 2024,Kedah Darul Aman FC,Loqman Hakim,13,26,Right-Back,Midfielders,50000.0
 2024,Kedah Darul Aman FC,Heshamudin Ahmad,51,25,Right-Back,Midfielders,19.0
 2024,Kedah Darul Aman FC,Hasbullah Abu Bakar,35,29,Defensive Midfield,Midfielders,20.0
 2024,Kedah Darul Aman FC,Sharul Aiman,60,19,Midfielder,Midfielders,23.0
-2024,Kedah Darul Aman FC,Azim Anuar,67,21,Midfielder,Midfielders,25.0
+2024,Kedah Darul Aman FC,Azim Anuar,67,22,Midfielder,Midfielders,25.0
 2024,Kedah Darul Aman FC,Amirul Hisyam,77,29,Central Midfield,Midfielders,26.0
 2024,Kedah Darul Aman FC,Fadzrul Danel,20,26,Central Midfield,Forwards,27.0
 2024,Kedah Darul Aman FC,Halim Saari,81,29,Central Midfield,Forwards,1500000.0
@@ -3175,14 +3178,14 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Kuala Lumpur City FC,Adrijan Rudovic,5,29,Centre-Back,Defenders,5.0
 2024,Kuala Lumpur City FC,Khairul Naim,34,24,Centre-Back,Defenders,6.0
 2024,Kuala Lumpur City FC,Declan Lambert,12,26,Left-Back,Defenders,7.0
-2024,Kuala Lumpur City FC,Khair Jones,15,34,Left-Back,Defenders,8.0
+2024,Kuala Lumpur City FC,Khair Jones,15,35,Left-Back,Defenders,8.0
 2024,Kuala Lumpur City FC,Nabil Hakim,66,25,Left-Back,Defenders,9.0
 2024,Kuala Lumpur City FC,Juzaerul Jasmi,33,24,Left-Back,Defenders,10.0
 2024,Kuala Lumpur City FC,Kamal Azizi,4,31,Right-Back,Defenders,11.0
 2024,Kuala Lumpur City FC,Anwar Ibrahim,25,25,Right-Back,Defenders,12.0
 2024,Kuala Lumpur City FC,Kenny Pallraj,21,31,Defensive Midfield,Defenders,13.0
 2024,Kuala Lumpur City FC,Ryan Lambert,6,26,Central Midfield,Midfielders,14.0
-2024,Kuala Lumpur City FC,Zhafri Yahya,8,29,Central Midfield,Midfielders,15.0
+2024,Kuala Lumpur City FC,Zhafri Yahya,8,30,Central Midfield,Midfielders,15.0
 2024,Kuala Lumpur City FC,Brendan Gan,88,36,Central Midfield,Midfielders,16.0
 2024,Kuala Lumpur City FC,Amirul Aiman,20,24,Right Midfield,Midfielders,400000.0
 2024,Kuala Lumpur City FC,Paulo Josué,28,35,Attacking Midfield,Midfielders,50000.0
@@ -3199,29 +3202,30 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Perak FC,Ramadhan Hamid,22,30,Goalkeeper,Goalkeeper,0.0
 2024,Perak FC,Firdaus Irman,1,23,Goalkeeper,Goalkeeper,1.0
 2024,Perak FC,Haziq Nadzli,20,26,Goalkeeper,Goalkeeper,2.0
-2024,Perak FC,Jesper Nyholm,15,31,Centre-Back,Defenders,700000.0
-2024,Perak FC,Shivan Pillay,8,23,Centre-Back,Defenders,400000.0
-2024,Perak FC,Luiz Henrique Motta,4,27,Centre-Back,Defenders,5.0
-2024,Perak FC,Kamal Arif,21,21,Centre-Back,Defenders,6.0
-2024,Perak FC,Nik Umar Nik Aziz,26,23,Centre-Back,Defenders,7.0
-2024,Perak FC,Tommy Mawat,3,29,Left-Back,Defenders,8.0
-2024,Perak FC,Afif Asyraf,12,33,Left-Back,Defenders,9.0
-2024,Perak FC,Aiman Yusni,40,22,Right-Back,Defenders,10.0
-2024,Perak FC,Fadhil Azmi,32,21,Right-Back,Defenders,11.0
-2024,Perak FC,Sunday Afolabi,2,25,Defensive Midfield,Defenders,12.0
-2024,Perak FC,Fadhil Idris,16,28,Defensive Midfield,Defenders,13.0
-2024,Perak FC,Ariff Ar-Rasyid Ariffin,28,25,Defensive Midfield,Midfielders,14.0
-2024,Perak FC,Adilet Kanybekov,17,21,Central Midfield,Midfielders,15.0
-2024,Perak FC,Firdaus Saiyadi,14,27,Central Midfield,Midfielders,16.0
-2024,Perak FC,Azalinullah Alias,18,28,Central Midfield,Midfielders,400000.0
-2024,Perak FC,Syukri Baharun,24,25,Central Midfield,Midfielders,50000.0
-2024,Perak FC,Luka Milunovic,30,31,Attacking Midfield,Midfielders,19.0
-2024,Perak FC,Luciano Guaycochea,5,32,Attacking Midfield,Midfielders,20.0
-2024,Perak FC,Nur Azfar Fikri Azhar,6,24,Attacking Midfield,Midfielders,21.0
-2024,Perak FC,Clayton,7,28,Left Winger,Midfielders,1500000.0
-2024,Perak FC,Tae-min Lee,10,21,Left Winger,Midfielders,23.0
-2024,Perak FC,Wan Zack Haikal,11,33,Right Winger,Midfielders,25.0
-2024,Perak FC,Alif Zikri,23,22,Centre-Forward,Midfielders,26.0
+2024,Perak FC,Hafizy Daniel,31,22,Defender,Defenders,700000.0
+2024,Perak FC,Jesper Nyholm,15,31,Centre-Back,Defenders,400000.0
+2024,Perak FC,Shivan Pillay,8,23,Centre-Back,Defenders,5.0
+2024,Perak FC,Luiz Henrique Motta,4,27,Centre-Back,Defenders,6.0
+2024,Perak FC,Kamal Arif,21,21,Centre-Back,Defenders,7.0
+2024,Perak FC,Nik Umar Nik Aziz,26,23,Centre-Back,Defenders,8.0
+2024,Perak FC,Tommy Mawat,3,29,Left-Back,Defenders,9.0
+2024,Perak FC,Afif Asyraf,12,33,Left-Back,Defenders,10.0
+2024,Perak FC,Aiman Yusni,40,22,Right-Back,Defenders,11.0
+2024,Perak FC,Fadhil Azmi,32,21,Right-Back,Defenders,12.0
+2024,Perak FC,Sunday Afolabi,2,25,Defensive Midfield,Defenders,13.0
+2024,Perak FC,Fadhil Idris,16,28,Defensive Midfield,Midfielders,14.0
+2024,Perak FC,Ariff Ar-Rasyid Ariffin,28,25,Defensive Midfield,Midfielders,15.0
+2024,Perak FC,Adilet Kanybekov,17,21,Central Midfield,Midfielders,16.0
+2024,Perak FC,Firdaus Saiyadi,14,27,Central Midfield,Midfielders,400000.0
+2024,Perak FC,Azalinullah Alias,18,28,Central Midfield,Midfielders,50000.0
+2024,Perak FC,Syukri Baharun,24,25,Central Midfield,Midfielders,19.0
+2024,Perak FC,Luka Milunovic,30,31,Attacking Midfield,Midfielders,20.0
+2024,Perak FC,Luciano Guaycochea,5,32,Attacking Midfield,Midfielders,21.0
+2024,Perak FC,Nur Azfar Fikri Azhar,6,24,Attacking Midfield,Midfielders,1500000.0
+2024,Perak FC,Clayton,7,28,Left Winger,Midfielders,23.0
+2024,Perak FC,Tae-min Lee,10,21,Left Winger,Midfielders,600000.0
+2024,Perak FC,Wan Zack Haikal,11,33,Right Winger,Midfielders,26.0
+2024,Perak FC,Alif Zikri,23,22,Centre-Forward,Forwards,27.0
 2024,Kuching City,Shahril Sa'ari,55,34,Goalkeeper,Goalkeeper,0.0
 2024,Kuching City,Shaiful Wazizi,20,26,Goalkeeper,Goalkeeper,1.0
 2024,Kuching City,Wan Azraie,38,38,Goalkeeper,Goalkeeper,2.0
@@ -3238,7 +3242,7 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Kuching City,Dzulazlan Ibrahim,13,35,Right-Back,Defenders,13.0
 2024,Kuching City,Arham Khussyairi,19,24,Right-Back,Midfielders,14.0
 2024,Kuching City,Iskandar Shah Jamil,40,23,Right-Back,Midfielders,15.0
-2024,Kuching City,Moses Atede,-,26,Defensive Midfield,Midfielders,16.0
+2024,Kuching City,Moses Atede,25,26,Defensive Midfield,Midfielders,16.0
 2024,Kuching City,Nando Welter,91,22,Defensive Midfield,Midfielders,400000.0
 2024,Kuching City,Abang Azri Fikri,12,24,Defensive Midfield,Midfielders,50000.0
 2024,Kuching City,Dechi Marcel N'Guessan,79,32,Central Midfield,Midfielders,19.0
@@ -3257,72 +3261,10 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Kuching City,Kipré Tchetche,7,36,Centre-Forward,Forwards,32.0
 2024,Kuching City,Jordan Mintah,28,29,Centre-Forward,Forwards,33.0
 2024,Kuching City,Pedro Henrique,29,32,Centre-Forward,Forwards,34.0
-2024,Kuching City,Hazwan Bakri,-,33,Centre-Forward,Forwards,35.0
-2024,Kuching City,Amirrul Iqmal Bolhi,23,27,Centre-Forward,Goalkeeper,36.0
-2024,Negeri Sembilan FC,Aqil Razak,22,27,Goalkeeper,Goalkeeper,0.0
-2024,Negeri Sembilan FC,Tauffiq Ar Rashid,1,28,Goalkeeper,Goalkeeper,1.0
-2024,Negeri Sembilan FC,Syahmi Adib,21,21,Goalkeeper,Goalkeeper,2.0
-2024,Negeri Sembilan FC,Azeem Farhan,31,21,Goalkeeper,Defenders,700000.0
-2024,Negeri Sembilan FC,Nasrullah Haniff,17,34,Centre-Back,Defenders,400000.0
-2024,Negeri Sembilan FC,Zainal Abidin Jamil,28,25,Centre-Back,Defenders,5.0
-2024,Negeri Sembilan FC,Aliyu Abubakar,6,28,Centre-Back,Defenders,6.0
-2024,Negeri Sembilan FC,Hariz Kamarudin,15,27,Centre-Back,Defenders,7.0
-2024,Negeri Sembilan FC,Annas Rahmat,5,29,Centre-Back,Defenders,8.0
-2024,Negeri Sembilan FC,Harith Samsuri,24,24,Centre-Back,Defenders,9.0
-2024,Negeri Sembilan FC,Azrin Afiq,3,22,Left-Back,Defenders,10.0
-2024,Negeri Sembilan FC,Izaffiq Ruzi,23,27,Left-Back,Defenders,11.0
-2024,Negeri Sembilan FC,Che Rashid Che Halim,2,29,Right-Back,Defenders,12.0
-2024,Negeri Sembilan FC,Aroon Kumar,4,30,Right-Back,Defenders,13.0
-2024,Negeri Sembilan FC,Norfiqrie Talib,20,28,Right-Back,Midfielders,14.0
-2024,Negeri Sembilan FC,Sebastian Avanzini,30,29,Defensive Midfield,Midfielders,15.0
-2024,Negeri Sembilan FC,Jacque Faye,14,31,Defensive Midfield,Midfielders,16.0
-2024,Negeri Sembilan FC,R. Barathkumar,12,32,Central Midfield,Midfielders,400000.0
-2024,Negeri Sembilan FC,Sang-su An,40,24,Central Midfield,Midfielders,50000.0
-2024,Negeri Sembilan FC,Afiq Fitri,18,21,Central Midfield,Midfielders,19.0
-2024,Negeri Sembilan FC,Takumi Sasaki,7,26,Attacking Midfield,Midfielders,20.0
-2024,Negeri Sembilan FC,Izzuddin Roslan,25,24,Attacking Midfield,Midfielders,21.0
-2024,Negeri Sembilan FC,Hadin Azman,27,30,Left Winger,Midfielders,1500000.0
-2024,Negeri Sembilan FC,Ikhwan Yazek,13,24,Left Winger,Midfielders,23.0
-2024,Negeri Sembilan FC,Hein Htet Aung,10,22,Right Winger,Midfielders,600000.0
-2024,Negeri Sembilan FC,Dzulfahmi Abdul Hadi,11,30,Right Winger,Midfielders,25.0
-2024,Negeri Sembilan FC,Alifh Aiman Rosman,29,25,Right Winger,Midfielders,26.0
-2024,Negeri Sembilan FC,A. Selvan,16,23,Centre-Forward,Forwards,27.0
-2024,Negeri Sembilan FC,N. Javabilaarivin,19,24,Centre-Forward,Forwards,1500000.0
-2024,Negeri Sembilan FC,Kwang-hui Lee,33,24,Striker,Forwards,500000.0
-2024,Negeri Sembilan FC,Amirul Hakimi Rosli,26,22,Centre-Forward,Forwards,500000.0
-2024,PDRM FC,Bryan See,1,31,Goalkeeper,Goalkeeper,0.0
-2024,PDRM FC,Rendy Rining,88,31,Goalkeeper,Goalkeeper,1.0
-2024,PDRM FC,Nor Hakeem Hamidun,46,23,Goalkeeper,Goalkeeper,2.0
-2024,PDRM FC,Asri Muhamad,33,25,Goalkeeper,Defenders,700000.0
-2024,PDRM FC,Faith Obilor,5,33,Centre-Back,Defenders,400000.0
-2024,PDRM FC,Aliff Najmi,4,23,Centre-Back,Defenders,5.0
-2024,PDRM FC,Badrul Afendy Fadzli,13,31,Centre-Back,Defenders,6.0
-2024,PDRM FC,Iqbal Azmi,3,24,Centre-Back,Defenders,7.0
-2024,PDRM FC,Amir Saiful,19,29,Left-Back,Defenders,8.0
-2024,PDRM FC,Alif Naquiddin,26,28,Left-Back,Defenders,9.0
-2024,PDRM FC,Izaaq Izhan Yuswardi,29,29,Right-Back,Defenders,10.0
-2024,PDRM FC,Kyaw Min Oo,6,28,Defensive Midfield,Defenders,11.0
-2024,PDRM FC,Fadi Awad,77,31,Defensive Midfield,Defenders,12.0
-2024,PDRM FC,Safiee Ahmad,32,27,Defensive Midfield,Defenders,13.0
-2024,PDRM FC,Chidi Osuchukwu,23,30,Central Midfield,Midfielders,14.0
-2024,PDRM FC,Aremu Timothy,30,22,Central Midfield,Midfielders,15.0
-2024,PDRM FC,Amirul Hakim Safian,14,24,Central Midfield,Midfielders,16.0
-2024,PDRM FC,Shazrin Abu Samah,16,24,Central Midfield,Midfielders,400000.0
-2024,PDRM FC,Eizrul Ashraf,34,24,Attacking Midfield,Midfielders,50000.0
-2024,PDRM FC,Shafizi Iqmal Khirudin,55,25,Attacking Midfield,Midfielders,19.0
-2024,PDRM FC,Zazrir Naim,21,24,Attacking Midfield,Midfielders,20.0
-2024,PDRM FC,Amirul Waie Yaacob,17,28,Left Winger,Midfielders,21.0
-2024,PDRM FC,Fakhrul Azim,89,25,Left Winger,Midfielders,1500000.0
-2024,PDRM FC,Hidhir Idris,11,27,Left Winger,Midfielders,23.0
-2024,PDRM FC,Zuhair Aizat,8,27,Right Winger,Midfielders,600000.0
-2024,PDRM FC,Christopher Keli,18,32,Right Winger,Midfielders,25.0
-2024,PDRM FC,Ifedayo Olusegun,12,33,Centre-Forward,Midfielders,26.0
-2024,PDRM FC,Shahrel Fikri,10,29,Centre-Forward,Forwards,27.0
-2024,PDRM FC,Hadi Fayyadh,-,24,Centre-Forward,Forwards,1500000.0
-2024,PDRM FC,Bruno Suzuki,9,34,Centre-Forward,Forwards,500000.0
-2024,PDRM FC,Syakimi Karim,50,23,Centre-Forward,Forwards,500000.0
+2024,Kuching City,Amirrul Iqmal Bolhi,23,27,Centre-Forward,Forwards,35.0
+2024,Kuching City,Hazwan Bakri,33,33,Centre-Forward,Goalkeeper,36.0
 2024,Kelantan Darul Naim,Muhammad Alfaiz,1,23,Goalkeeper,Goalkeeper,0.0
-2024,Kelantan Darul Naim,Fikri Che Soh,-,26,Goalkeeper,Goalkeeper,1.0
+2024,Kelantan Darul Naim,Fikri Che Soh,39,26,Goalkeeper,Goalkeeper,1.0
 2024,Kelantan Darul Naim,Khatul Anuar,22,27,Goalkeeper,Goalkeeper,2.0
 2024,Kelantan Darul Naim,Muhaimin Mohamad,30,32,Goalkeeper,Defenders,700000.0
 2024,Kelantan Darul Naim,Michal Jerabek,18,31,Centre-Back,Defenders,400000.0
@@ -3348,17 +3290,81 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Kelantan Darul Naim,Jasmir Mehat,16,30,Attacking Midfield,Midfielders,600000.0
 2024,Kelantan Darul Naim,Syahir Abdul Rashid,25,22,Attacking Midfield,Midfielders,25.0
 2024,Kelantan Darul Naim,David Ribera,23,23,Left Winger,Midfielders,26.0
-2024,Kelantan Darul Naim,Hakimi Abdullah,-,24,Left Winger,Forwards,27.0
-2024,Kelantan Darul Naim,Fazrul Amir,17,24,Left Winger,Forwards,1500000.0
-2024,Kelantan Darul Naim,Muhaimin Izuddin,-,22,Left Winger,Forwards,500000.0
+2024,Kelantan Darul Naim,Fazrul Amir,17,24,Left Winger,Forwards,27.0
+2024,Kelantan Darul Naim,Hakimi Abdullah,61,24,Left Winger,Forwards,1500000.0
+2024,Kelantan Darul Naim,Muhaimin Izuddin,88,22,Left Winger,Forwards,500000.0
 2024,Kelantan Darul Naim,Ah-hwoi Goo,26,22,Left Winger,Forwards,500000.0
 2024,Kelantan Darul Naim,Haziq Subri,31,25,Left Winger,Forwards,31.0
 2024,Kelantan Darul Naim,Amirul Shafik Che Soh,12,27,Left Winger,Forwards,32.0
 2024,Kelantan Darul Naim,Layth Kharoub,10,33,Right Winger,Forwards,33.0
-2024,Kelantan Darul Naim,Faizal Talib,20,27,Right Winger,Forwards,34.0
-2024,Kelantan Darul Naim,Aung Kaung Mann,-,26,Centre-Forward,Forwards,35.0
+2024,Kelantan Darul Naim,Washington Brandão,9,34,Centre-Forward,Forwards,34.0
+2024,Kelantan Darul Naim,Aung Kaung Mann,47,26,Centre-Forward,Forwards,35.0
 2024,Kelantan Darul Naim,Fazli Ghazali,13,27,Centre-Forward,Goalkeeper,36.0
 2024,Kelantan Darul Naim,Kyung-hwan Bae,24,22,Centre-Forward,Goalkeeper,37.0
+2024,PDRM FC,Bryan See,1,31,Goalkeeper,Goalkeeper,0.0
+2024,PDRM FC,Rendy Rining,88,31,Goalkeeper,Goalkeeper,1.0
+2024,PDRM FC,Nor Hakeem Hamidun,46,23,Goalkeeper,Goalkeeper,2.0
+2024,PDRM FC,Asri Muhamad,33,26,Goalkeeper,Defenders,700000.0
+2024,PDRM FC,Jae-hyeok Chang,-,23,Defender,Defenders,400000.0
+2024,PDRM FC,Faith Obilor,5,33,Centre-Back,Defenders,5.0
+2024,PDRM FC,Aliff Najmi,4,24,Centre-Back,Defenders,6.0
+2024,PDRM FC,Badrul Afendy Fadzli,13,31,Centre-Back,Defenders,7.0
+2024,PDRM FC,Iqbal Azmi,3,24,Centre-Back,Defenders,8.0
+2024,PDRM FC,Amir Saiful,19,29,Left-Back,Defenders,9.0
+2024,PDRM FC,Alif Naquiddin,26,28,Left-Back,Defenders,10.0
+2024,PDRM FC,Izaaq Izhan Yuswardi,29,29,Right-Back,Defenders,11.0
+2024,PDRM FC,Kyaw Min Oo,6,28,Defensive Midfield,Defenders,12.0
+2024,PDRM FC,Fadi Awad,77,31,Defensive Midfield,Defenders,13.0
+2024,PDRM FC,Safiee Ahmad,32,27,Defensive Midfield,Midfielders,14.0
+2024,PDRM FC,Deok Um,-,25,Midfielder,Midfielders,15.0
+2024,PDRM FC,Chidi Osuchukwu,23,30,Central Midfield,Midfielders,400000.0
+2024,PDRM FC,Aremu Timothy,30,22,Central Midfield,Midfielders,50000.0
+2024,PDRM FC,Amirul Hakim Safian,14,24,Central Midfield,Midfielders,19.0
+2024,PDRM FC,Shazrin Abu Samah,16,24,Central Midfield,Midfielders,20.0
+2024,PDRM FC,Eizrul Ashraf,34,24,Attacking Midfield,Midfielders,21.0
+2024,PDRM FC,Shafizi Iqmal Khirudin,55,25,Attacking Midfield,Midfielders,1500000.0
+2024,PDRM FC,Zazrir Naim,21,24,Attacking Midfield,Midfielders,23.0
+2024,PDRM FC,Amirul Waie Yaacob,17,28,Left Winger,Midfielders,600000.0
+2024,PDRM FC,Fakhrul Azim,89,25,Left Winger,Midfielders,25.0
+2024,PDRM FC,Hidhir Idris,-,27,Left Winger,Midfielders,26.0
+2024,PDRM FC,Zuhair Aizat,8,28,Right Winger,Forwards,27.0
+2024,PDRM FC,Christopher Keli,18,32,Right Winger,Forwards,1500000.0
+2024,PDRM FC,Imran Samso,-,26,Right Winger,Forwards,500000.0
+2024,PDRM FC,Ifedayo Olusegun,12,33,Centre-Forward,Forwards,500000.0
+2024,PDRM FC,Shahrel Fikri,10,29,Centre-Forward,Forwards,31.0
+2024,PDRM FC,Bruno Suzuki,9,34,Centre-Forward,Forwards,32.0
+2024,PDRM FC,Hadi Fayyadh,11,24,Centre-Forward,Forwards,33.0
+2024,PDRM FC,Syakimi Karim,50,23,Centre-Forward,Forwards,34.0
+2024,Negeri Sembilan FC,Aqil Razak,22,27,Goalkeeper,Goalkeeper,0.0
+2024,Negeri Sembilan FC,Tauffiq Ar Rashid,1,28,Goalkeeper,Goalkeeper,1.0
+2024,Negeri Sembilan FC,Syahmi Adib,21,21,Goalkeeper,Goalkeeper,2.0
+2024,Negeri Sembilan FC,Azeem Farhan,31,21,Goalkeeper,Defenders,700000.0
+2024,Negeri Sembilan FC,Nasrullah Haniff,17,34,Centre-Back,Defenders,400000.0
+2024,Negeri Sembilan FC,Zainal Abidin Jamil,28,25,Centre-Back,Defenders,5.0
+2024,Negeri Sembilan FC,Aliyu Abubakar,6,28,Centre-Back,Defenders,6.0
+2024,Negeri Sembilan FC,Hariz Kamarudin,15,27,Centre-Back,Defenders,7.0
+2024,Negeri Sembilan FC,Annas Rahmat,5,29,Centre-Back,Defenders,8.0
+2024,Negeri Sembilan FC,Harith Samsuri,24,24,Centre-Back,Defenders,9.0
+2024,Negeri Sembilan FC,Azrin Afiq,3,22,Left-Back,Defenders,10.0
+2024,Negeri Sembilan FC,Izaffiq Ruzi,23,27,Left-Back,Defenders,11.0
+2024,Negeri Sembilan FC,Che Rashid Che Halim,2,29,Right-Back,Defenders,12.0
+2024,Negeri Sembilan FC,Aroon Kumar,4,30,Right-Back,Defenders,13.0
+2024,Negeri Sembilan FC,Norfiqrie Talib,20,28,Right-Back,Midfielders,14.0
+2024,Negeri Sembilan FC,Sebastian Avanzini,30,29,Defensive Midfield,Midfielders,15.0
+2024,Negeri Sembilan FC,Jacque Faye,14,31,Defensive Midfield,Midfielders,16.0
+2024,Negeri Sembilan FC,R. Barathkumar,12,32,Central Midfield,Midfielders,400000.0
+2024,Negeri Sembilan FC,Sang-su An,40,24,Central Midfield,Midfielders,50000.0
+2024,Negeri Sembilan FC,Afiq Fitri,18,21,Central Midfield,Midfielders,19.0
+2024,Negeri Sembilan FC,Takumi Sasaki,7,26,Attacking Midfield,Midfielders,20.0
+2024,Negeri Sembilan FC,Izzuddin Roslan,25,24,Attacking Midfield,Midfielders,21.0
+2024,Negeri Sembilan FC,Hadin Azman,27,30,Left Winger,Midfielders,1500000.0
+2024,Negeri Sembilan FC,Ikhwan Yazek,13,24,Left Winger,Midfielders,23.0
+2024,Negeri Sembilan FC,Hein Htet Aung,10,23,Right Winger,Midfielders,600000.0
+2024,Negeri Sembilan FC,A. Selvan,16,23,Centre-Forward,Midfielders,25.0
+2024,Negeri Sembilan FC,Ricardo Pires,9,37,Centre-Forward,Midfielders,26.0
+2024,Negeri Sembilan FC,N. Javabilaarivin,19,24,Centre-Forward,Forwards,27.0
+2024,Negeri Sembilan FC,Kwang-hui Lee,33,24,Striker,Forwards,1500000.0
+2024,Negeri Sembilan FC,Amirul Hakimi Rosli,26,22,Centre-Forward,Forwards,500000.0
 2024,Penang FC,Sikh Izhan Nazrel,23,22,Goalkeeper,Goalkeeper,0.0
 2024,Penang FC,Shafiq Afifi,25,25,Goalkeeper,Goalkeeper,1.0
 2024,Penang FC,Haziq Mukriz,1,21,Goalkeeper,Goalkeeper,2.0
@@ -3372,20 +3378,20 @@ SEASON,TEAM,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Penang FC,Aikmal Roslan,3,23,Left-Back,Defenders,10.0
 2024,Penang FC,A. Namathevan,26,28,Right-Back,Defenders,11.0
 2024,Penang FC,Fairuz Zakaria,15,27,Right-Back,Defenders,12.0
-2024,Penang FC,Syamer Kutty,14,26,Central Midfield,Defenders,13.0
+2024,Penang FC,Syamer Kutty,14,27,Central Midfield,Defenders,13.0
 2024,Penang FC,Khairu Azrin,8,33,Central Midfield,Midfielders,14.0
 2024,Penang FC,Azrie Reza Zamri,28,29,Central Midfield,Midfielders,15.0
 2024,Penang FC,Izzat Zikri Iziruddin,80,22,Central Midfield,Midfielders,16.0
 2024,Penang FC,Shafi Azswad,21,23,Central Midfield,Midfielders,400000.0
 2024,Penang FC,Nik Akif,33,25,Attacking Midfield,Midfielders,50000.0
 2024,Penang FC,Neto,10,26,Attacking Midfield,Midfielders,19.0
-2024,Penang FC,Daniel Irfan,88,22,Attacking Midfield,Midfielders,20.0
+2024,Penang FC,Daniel Irfan,88,23,Attacking Midfield,Midfielders,20.0
 2024,Penang FC,Alif Ikmalrizal,99,21,Left Winger,Midfielders,21.0
 2024,Penang FC,Aidil Danial,55,22,Left Winger,Midfielders,1500000.0
 2024,Penang FC,Al-Hafiz,12,30,Right Winger,Midfielders,23.0
-2024,Penang FC,Rahmat Makasuf,20,26,Right Winger,Midfielders,600000.0
+2024,Penang FC,Rahmat Makasuf,20,27,Right Winger,Midfielders,600000.0
 2024,Penang FC,Amer Azahar,11,29,Right Winger,Midfielders,25.0
 2024,Penang FC,Nabil Lapti,30,32,Right Winger,Midfielders,26.0
 2024,Penang FC,Khairil Anuar,-,29,Right Winger,Forwards,27.0
-2024,Penang FC,Dylan Wenzel-Halls,-,26,Centre-Forward,Forwards,1500000.0
+2024,Penang FC,Dylan Wenzel-Halls,7,26,Centre-Forward,Forwards,1500000.0
 2024,Penang FC,Rodrigo Dias,9,30,Centre-Forward,Forwards,500000.0
