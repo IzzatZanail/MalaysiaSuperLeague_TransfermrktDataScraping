@@ -172,10 +172,10 @@ SEASON,TEAM,TEAM_CLEANED,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2016,Sri Pahang FC,Sri Pahang FC,Syamim Yahya,11,25,Midfielder,Midfielders,171.0
 2016,Sri Pahang FC,Sri Pahang FC,Ahmad Nordin Alias,18,30,Defensive Midfield,Midfielders,172.0
 2016,Sri Pahang FC,Sri Pahang FC,Salomon Raj,23,21,Defensive Midfield,Midfielders,173.0
-2016,Sri Pahang FC,Sri Pahang FC,Azam Azih,20,20,Central Midfield,Midfielders,174.0
-2016,Sri Pahang FC,Sri Pahang FC,Joseph Kalang Tie,-,28,Attacking Midfield,Midfielders,175.0
-2016,Sri Pahang FC,Sri Pahang FC,Ashaari Samsuddin,5,30,Attacking Midfield,Midfielders,176.0
-2016,Sri Pahang FC,Sri Pahang FC,Yamil Romero,10,20,Attacking Midfield,Midfielders,177.0
+2016,Sri Pahang FC,Sri Pahang FC,Yamil Romero,10,20,Central Midfield,Midfielders,174.0
+2016,Sri Pahang FC,Sri Pahang FC,Azam Azih,20,20,Central Midfield,Midfielders,175.0
+2016,Sri Pahang FC,Sri Pahang FC,Joseph Kalang Tie,-,28,Attacking Midfield,Midfielders,176.0
+2016,Sri Pahang FC,Sri Pahang FC,Ashaari Samsuddin,5,30,Attacking Midfield,Midfielders,177.0
 2016,Sri Pahang FC,Sri Pahang FC,Nurridzuan Hassan,16,23,Attacking Midfield,Midfielders,178.0
 2016,Sri Pahang FC,Sri Pahang FC,Faisal Halim,7,17,Left Winger,Midfielders,179.0
 2016,Sri Pahang FC,Sri Pahang FC,Wan Zaharulnizam Zakaria,8,24,Left Winger,Midfielders,180.0
@@ -2720,50 +2720,50 @@ SEASON,TEAM,TEAM_CLEANED,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2022,Negeri Sembilan FC,Negeri Sembilan FC,N. Javabilaarivin,-,21,Centre-Forward,Forwards,50000.0
 2022,Negeri Sembilan FC,Negeri Sembilan FC,A. Selvan,16,21,Centre-Forward,Forwards,50000.0
 2022,Negeri Sembilan FC,Negeri Sembilan FC,Amirul Hakimi Rosli,-,19,Centre-Forward,Forwards,2736.0
-2022,Kuching City,Kuching City,Norazlan Razali,-,36,Goalkeeper,Goalkeeper,50000.0
-2022,Kuching City,Kuching City,Julian Schwarzer,-,22,Goalkeeper,Goalkeeper,50000.0
-2022,Kuching City,Kuching City,Shaiful Wazizi,20,23,Goalkeeper,Goalkeeper,25000.0
-2022,Kuching City,Kuching City,Wan Azraie,37,35,Goalkeeper,Defenders,2740.0
-2022,Kuching City,Kuching City,Andy Nicholas Nipen,1,24,Goalkeeper,Defenders,2741.0
-2022,Kuching City,Kuching City,Mihailo Jovanović,32,32,Centre-Back,Defenders,125000.0
-2022,Kuching City,Kuching City,Badrul Afendy Fadzli,31,28,Centre-Back,Defenders,75000.0
-2022,Kuching City,Kuching City,Célio Santos,5,34,Centre-Back,Defenders,2744.0
-2022,Kuching City,Kuching City,Alemão,-,33,Centre-Back,Defenders,2745.0
-2022,Kuching City,Kuching City,Yuki Tanigawa,77,24,Centre-Back,Defenders,2746.0
-2022,Kuching City,Kuching City,Qayyum Marjoni,-,27,Left-Back,Defenders,2747.0
-2022,Kuching City,Kuching City,Ramesh,12,41,Left-Back,Defenders,2748.0
-2022,Kuching City,Kuching City,Badrul Hisham Hussein,-,22,Left-Back,Defenders,2749.0
-2022,Kuching City,Kuching City,Aiman Joanny,41,20,Left-Back,Defenders,2750.0
-2022,Kuching City,Kuching City,Jimmy Raymond,2,25,Right-Back,Midfielders,2751.0
-2022,Kuching City,Kuching City,Dzulazlan Ibrahim,13,33,Right-Back,Midfielders,2752.0
-2022,Kuching City,Kuching City,Irwan Syazmin Wahab,19,26,Right-Back,Midfielders,2753.0
-2022,Kuching City,Kuching City,Arham Khussyairi,29,21,Right-Back,Midfielders,2754.0
-2022,Kuching City,Kuching City,Iskandar Shah Jamil,40,20,Right-Back,Midfielders,2755.0
-2022,Kuching City,Kuching City,Abang Azri Fikri,-,21,Defensive Midfield,Midfielders,2756.0
-2022,Kuching City,Kuching City,Azuanie Jasman,-,21,Midfielder,Midfielders,2757.0
-2022,Kuching City,Kuching City,Sirozhiddin Kuziev,-,25,Central Midfield,Midfielders,350000.0
-2022,Kuching City,Kuching City,Nuriddin Davronov,6,30,Central Midfield,Midfielders,275000.0
-2022,Kuching City,Kuching City,Dechi Marcel N'Guessan,-,30,Central Midfield,Midfielders,100000.0
-2022,Kuching City,Kuching City,Adam Shreen,-,28,Central Midfield,Midfielders,2761.0
-2022,Kuching City,Kuching City,Azriddin Rosli,-,26,Central Midfield,Midfielders,2762.0
-2022,Kuching City,Kuching City,Alif Hassan,44,27,Central Midfield,Midfielders,2763.0
-2022,Kuching City,Kuching City,Rafiezan Razali,17,33,Central Midfield,Forwards,2764.0
-2022,Kuching City,Kuching City,Diego Baggio,50,22,Central Midfield,Forwards,2765.0
-2022,Kuching City,Kuching City,Petrus Shitembi,10,29,Attacking Midfield,Forwards,150000.0
-2022,Kuching City,Kuching City,Bruno Dybal,-,27,Attacking Midfield,Forwards,125000.0
-2022,Kuching City,Kuching City,Abdul Rahim,95,26,Attacking Midfield,Forwards,75000.0
-2022,Kuching City,Kuching City,Joseph Kalang Tie,-,34,Attacking Midfield,Forwards,2769.0
-2022,Kuching City,Kuching City,Hidhir Idris,11,24,Left Winger,Forwards,50000.0
-2022,Kuching City,Kuching City,Faiz Wan Sulaiman,-,29,Left Winger,Forwards,25000.0
-2022,Kuching City,Kuching City,Amirul Shafik Che Soh,-,25,Left Winger,Forwards,2772.0
-2022,Kuching City,Kuching City,Zahrul Zulkeflee,22,25,Right Winger,Goalkeeper,25000.0
-2022,Kuching City,Kuching City,Alauddin Farid Atan,-,21,Right Winger,Goalkeeper,2774.0
-2022,Kuching City,Kuching City,Amir Amri Salleh,14,22,Right Winger,Goalkeeper,2775.0
-2022,Kuching City,Kuching City,Pedro Henrique,90,29,Centre-Forward,Goalkeeper,100000.0
-2022,Kuching City,Kuching City,Abu Kamara,7,24,Centre-Forward,Goalkeeper,75000.0
-2022,Kuching City,Kuching City,Michael Ijezie,-,34,Centre-Forward,Goalkeeper,2778.0
-2022,Kuching City,Kuching City,Nurshamil Abd Ghani,99,27,Centre-Forward,Defenders,2779.0
-2022,Kuching City,Kuching City,Abdallah Sudi,-,21,Centre-Forward,Defenders,2780.0
+2022,Kuching City,Kuching City FC,Norazlan Razali,-,36,Goalkeeper,Goalkeeper,50000.0
+2022,Kuching City,Kuching City FC,Julian Schwarzer,-,22,Goalkeeper,Goalkeeper,50000.0
+2022,Kuching City,Kuching City FC,Shaiful Wazizi,20,23,Goalkeeper,Goalkeeper,25000.0
+2022,Kuching City,Kuching City FC,Wan Azraie,37,35,Goalkeeper,Defenders,2740.0
+2022,Kuching City,Kuching City FC,Andy Nicholas Nipen,1,24,Goalkeeper,Defenders,2741.0
+2022,Kuching City,Kuching City FC,Mihailo Jovanović,32,32,Centre-Back,Defenders,125000.0
+2022,Kuching City,Kuching City FC,Badrul Afendy Fadzli,31,28,Centre-Back,Defenders,75000.0
+2022,Kuching City,Kuching City FC,Célio Santos,5,34,Centre-Back,Defenders,2744.0
+2022,Kuching City,Kuching City FC,Alemão,-,33,Centre-Back,Defenders,2745.0
+2022,Kuching City,Kuching City FC,Yuki Tanigawa,77,24,Centre-Back,Defenders,2746.0
+2022,Kuching City,Kuching City FC,Qayyum Marjoni,-,27,Left-Back,Defenders,2747.0
+2022,Kuching City,Kuching City FC,Ramesh,12,41,Left-Back,Defenders,2748.0
+2022,Kuching City,Kuching City FC,Badrul Hisham Hussein,-,22,Left-Back,Defenders,2749.0
+2022,Kuching City,Kuching City FC,Aiman Joanny,41,20,Left-Back,Defenders,2750.0
+2022,Kuching City,Kuching City FC,Jimmy Raymond,2,25,Right-Back,Midfielders,2751.0
+2022,Kuching City,Kuching City FC,Dzulazlan Ibrahim,13,33,Right-Back,Midfielders,2752.0
+2022,Kuching City,Kuching City FC,Irwan Syazmin Wahab,19,26,Right-Back,Midfielders,2753.0
+2022,Kuching City,Kuching City FC,Arham Khussyairi,29,21,Right-Back,Midfielders,2754.0
+2022,Kuching City,Kuching City FC,Iskandar Shah Jamil,40,20,Right-Back,Midfielders,2755.0
+2022,Kuching City,Kuching City FC,Abang Azri Fikri,-,21,Defensive Midfield,Midfielders,2756.0
+2022,Kuching City,Kuching City FC,Azuanie Jasman,-,21,Midfielder,Midfielders,2757.0
+2022,Kuching City,Kuching City FC,Sirozhiddin Kuziev,-,25,Central Midfield,Midfielders,350000.0
+2022,Kuching City,Kuching City FC,Nuriddin Davronov,6,30,Central Midfield,Midfielders,275000.0
+2022,Kuching City,Kuching City FC,Dechi Marcel N'Guessan,-,30,Central Midfield,Midfielders,100000.0
+2022,Kuching City,Kuching City FC,Adam Shreen,-,28,Central Midfield,Midfielders,2761.0
+2022,Kuching City,Kuching City FC,Azriddin Rosli,-,26,Central Midfield,Midfielders,2762.0
+2022,Kuching City,Kuching City FC,Alif Hassan,44,27,Central Midfield,Midfielders,2763.0
+2022,Kuching City,Kuching City FC,Rafiezan Razali,17,33,Central Midfield,Forwards,2764.0
+2022,Kuching City,Kuching City FC,Diego Baggio,50,22,Central Midfield,Forwards,2765.0
+2022,Kuching City,Kuching City FC,Petrus Shitembi,10,29,Attacking Midfield,Forwards,150000.0
+2022,Kuching City,Kuching City FC,Bruno Dybal,-,27,Attacking Midfield,Forwards,125000.0
+2022,Kuching City,Kuching City FC,Abdul Rahim,95,26,Attacking Midfield,Forwards,75000.0
+2022,Kuching City,Kuching City FC,Joseph Kalang Tie,-,34,Attacking Midfield,Forwards,2769.0
+2022,Kuching City,Kuching City FC,Hidhir Idris,11,24,Left Winger,Forwards,50000.0
+2022,Kuching City,Kuching City FC,Faiz Wan Sulaiman,-,29,Left Winger,Forwards,25000.0
+2022,Kuching City,Kuching City FC,Amirul Shafik Che Soh,-,25,Left Winger,Forwards,2772.0
+2022,Kuching City,Kuching City FC,Zahrul Zulkeflee,22,25,Right Winger,Goalkeeper,25000.0
+2022,Kuching City,Kuching City FC,Alauddin Farid Atan,-,21,Right Winger,Goalkeeper,2774.0
+2022,Kuching City,Kuching City FC,Amir Amri Salleh,14,22,Right Winger,Goalkeeper,2775.0
+2022,Kuching City,Kuching City FC,Pedro Henrique,90,29,Centre-Forward,Goalkeeper,100000.0
+2022,Kuching City,Kuching City FC,Abu Kamara,7,24,Centre-Forward,Goalkeeper,75000.0
+2022,Kuching City,Kuching City FC,Michael Ijezie,-,34,Centre-Forward,Goalkeeper,2778.0
+2022,Kuching City,Kuching City FC,Nurshamil Abd Ghani,99,27,Centre-Forward,Defenders,2779.0
+2022,Kuching City,Kuching City FC,Abdallah Sudi,-,21,Centre-Forward,Defenders,2780.0
 2022,Penang FC,Penang FC,Rendy Rining,-,28,Goalkeeper,Goalkeeper,75000.0
 2022,Penang FC,Penang FC,Azfar Arif,1,22,Goalkeeper,Goalkeeper,75000.0
 2022,Penang FC,Penang FC,Shafiq Afifi,25,22,Goalkeeper,Goalkeeper,25000.0
@@ -3228,43 +3228,43 @@ SEASON,TEAM,TEAM_CLEANED,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Perak FC,Perak FC,Tae-min Lee,10,21,Left Winger,Midfielders,150000.0
 2024,Perak FC,Perak FC,Wan Zack Haikal,11,33,Right Winger,Midfielders,50000.0
 2024,Perak FC,Perak FC,Alif Zikri,23,22,Centre-Forward,Forwards,50000.0
-2024,Kuching City,Kuching City,Shahril Sa'ari,55,34,Goalkeeper,Goalkeeper,75000.0
-2024,Kuching City,Kuching City,Shaiful Wazizi,20,26,Goalkeeper,Goalkeeper,50000.0
-2024,Kuching City,Kuching City,Wan Azraie,38,38,Goalkeeper,Goalkeeper,50000.0
-2024,Kuching City,Kuching City,Ahmad Uzair Zaidil,1,26,Goalkeeper,Defenders,3259.0
-2024,Kuching City,Kuching City,Rodney Celvin,3,27,Centre-Back,Defenders,250000.0
-2024,Kuching City,Kuching City,Yuki Tanigawa,77,27,Centre-Back,Defenders,150000.0
-2024,Kuching City,Kuching City,James Okwuosa,35,34,Centre-Back,Defenders,100000.0
-2024,Kuching City,Kuching City,Hariz Mansor,22,22,Centre-Back,Defenders,25000.0
-2024,Kuching City,Kuching City,Filemon Anyie,27,27,Left-Back,Defenders,125000.0
-2024,Kuching City,Kuching City,Arif Fadzilah,6,28,Left-Back,Defenders,100000.0
-2024,Kuching City,Kuching City,Aiman Joanny,41,22,Left-Back,Defenders,25000.0
-2024,Kuching City,Kuching City,Badrul Hisham Hussein,64,24,Left-Back,Defenders,25000.0
-2024,Kuching City,Kuching City,Jimmy Raymond,2,28,Right-Back,Defenders,75000.0
-2024,Kuching City,Kuching City,Dzulazlan Ibrahim,13,35,Right-Back,Defenders,50000.0
-2024,Kuching City,Kuching City,Arham Khussyairi,19,24,Right-Back,Midfielders,50000.0
-2024,Kuching City,Kuching City,Iskandar Shah Jamil,40,23,Right-Back,Midfielders,25000.0
-2024,Kuching City,Kuching City,Moses Atede,25,26,Defensive Midfield,Midfielders,325000.0
-2024,Kuching City,Kuching City,Nando Welter,91,22,Defensive Midfield,Midfielders,75000.0
-2024,Kuching City,Kuching City,Abang Azri Fikri,12,24,Defensive Midfield,Midfielders,10000.0
-2024,Kuching City,Kuching City,Dechi Marcel N'Guessan,79,32,Central Midfield,Midfielders,100000.0
-2024,Kuching City,Kuching City,Adam Shreen,9,31,Central Midfield,Midfielders,75000.0
-2024,Kuching City,Kuching City,Alif Hassan,44,30,Central Midfield,Midfielders,75000.0
-2024,Kuching City,Kuching City,Danial Amier,21,27,Central Midfield,Midfielders,50000.0
-2024,Kuching City,Kuching City,Diego Baggio,50,25,Central Midfield,Midfielders,50000.0
-2024,Kuching City,Kuching City,Petrus Shitembi,10,32,Attacking Midfield,Midfielders,200000.0
-2024,Kuching City,Kuching City,Abdul Rahim,71,29,Attacking Midfield,Midfielders,25000.0
-2024,Kuching City,Kuching City,Faiz Wan Sulaiman,28,32,Left Winger,Midfielders,25000.0
-2024,Kuching City,Kuching City,Shamie Iszuan,11,29,Right Winger,Forwards,125000.0
-2024,Kuching City,Kuching City,Zahrul Zulkeflee,18,27,Right Winger,Forwards,75000.0
-2024,Kuching City,Kuching City,Amir Amri Salleh,14,24,Right Winger,Forwards,50000.0
-2024,Kuching City,Kuching City,Keanu Marsh-Brown,99,32,Right Winger,Forwards,25000.0
-2024,Kuching City,Kuching City,Alauddin Farid Atan,17,24,Right Winger,Forwards,10000.0
-2024,Kuching City,Kuching City,Kipré Tchetche,7,36,Centre-Forward,Forwards,150000.0
-2024,Kuching City,Kuching City,Jordan Mintah,28,29,Centre-Forward,Forwards,150000.0
-2024,Kuching City,Kuching City,Pedro Henrique,29,32,Centre-Forward,Forwards,150000.0
-2024,Kuching City,Kuching City,Amirrul Iqmal Bolhi,23,27,Centre-Forward,Forwards,3291.0
-2024,Kuching City,Kuching City,Hazwan Bakri,33,33,Centre-Forward,Goalkeeper,3292.0
+2024,Kuching City,Kuching City FC,Shahril Sa'ari,55,34,Goalkeeper,Goalkeeper,75000.0
+2024,Kuching City,Kuching City FC,Shaiful Wazizi,20,26,Goalkeeper,Goalkeeper,50000.0
+2024,Kuching City,Kuching City FC,Wan Azraie,38,38,Goalkeeper,Goalkeeper,50000.0
+2024,Kuching City,Kuching City FC,Ahmad Uzair Zaidil,1,26,Goalkeeper,Defenders,3259.0
+2024,Kuching City,Kuching City FC,Rodney Celvin,3,27,Centre-Back,Defenders,250000.0
+2024,Kuching City,Kuching City FC,Yuki Tanigawa,77,27,Centre-Back,Defenders,150000.0
+2024,Kuching City,Kuching City FC,James Okwuosa,35,34,Centre-Back,Defenders,100000.0
+2024,Kuching City,Kuching City FC,Hariz Mansor,22,22,Centre-Back,Defenders,25000.0
+2024,Kuching City,Kuching City FC,Filemon Anyie,27,27,Left-Back,Defenders,125000.0
+2024,Kuching City,Kuching City FC,Arif Fadzilah,6,28,Left-Back,Defenders,100000.0
+2024,Kuching City,Kuching City FC,Aiman Joanny,41,22,Left-Back,Defenders,25000.0
+2024,Kuching City,Kuching City FC,Badrul Hisham Hussein,64,24,Left-Back,Defenders,25000.0
+2024,Kuching City,Kuching City FC,Jimmy Raymond,2,28,Right-Back,Defenders,75000.0
+2024,Kuching City,Kuching City FC,Dzulazlan Ibrahim,13,35,Right-Back,Defenders,50000.0
+2024,Kuching City,Kuching City FC,Arham Khussyairi,19,24,Right-Back,Midfielders,50000.0
+2024,Kuching City,Kuching City FC,Iskandar Shah Jamil,40,23,Right-Back,Midfielders,25000.0
+2024,Kuching City,Kuching City FC,Moses Atede,25,26,Defensive Midfield,Midfielders,325000.0
+2024,Kuching City,Kuching City FC,Nando Welter,91,22,Defensive Midfield,Midfielders,75000.0
+2024,Kuching City,Kuching City FC,Abang Azri Fikri,12,24,Defensive Midfield,Midfielders,10000.0
+2024,Kuching City,Kuching City FC,Dechi Marcel N'Guessan,79,32,Central Midfield,Midfielders,100000.0
+2024,Kuching City,Kuching City FC,Adam Shreen,9,31,Central Midfield,Midfielders,75000.0
+2024,Kuching City,Kuching City FC,Alif Hassan,44,30,Central Midfield,Midfielders,75000.0
+2024,Kuching City,Kuching City FC,Danial Amier,21,27,Central Midfield,Midfielders,50000.0
+2024,Kuching City,Kuching City FC,Diego Baggio,50,25,Central Midfield,Midfielders,50000.0
+2024,Kuching City,Kuching City FC,Petrus Shitembi,10,32,Attacking Midfield,Midfielders,200000.0
+2024,Kuching City,Kuching City FC,Abdul Rahim,71,29,Attacking Midfield,Midfielders,25000.0
+2024,Kuching City,Kuching City FC,Faiz Wan Sulaiman,28,32,Left Winger,Midfielders,25000.0
+2024,Kuching City,Kuching City FC,Shamie Iszuan,11,29,Right Winger,Forwards,125000.0
+2024,Kuching City,Kuching City FC,Zahrul Zulkeflee,18,27,Right Winger,Forwards,75000.0
+2024,Kuching City,Kuching City FC,Amir Amri Salleh,14,24,Right Winger,Forwards,50000.0
+2024,Kuching City,Kuching City FC,Keanu Marsh-Brown,99,32,Right Winger,Forwards,25000.0
+2024,Kuching City,Kuching City FC,Alauddin Farid Atan,17,24,Right Winger,Forwards,10000.0
+2024,Kuching City,Kuching City FC,Kipré Tchetche,7,36,Centre-Forward,Forwards,150000.0
+2024,Kuching City,Kuching City FC,Jordan Mintah,28,29,Centre-Forward,Forwards,150000.0
+2024,Kuching City,Kuching City FC,Pedro Henrique,29,32,Centre-Forward,Forwards,150000.0
+2024,Kuching City,Kuching City FC,Amirrul Iqmal Bolhi,23,27,Centre-Forward,Forwards,3291.0
+2024,Kuching City,Kuching City FC,Hazwan Bakri,33,33,Centre-Forward,Goalkeeper,3292.0
 2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Muhammad Alfaiz,1,23,Goalkeeper,Goalkeeper,100000.0
 2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Fikri Che Soh,39,26,Goalkeeper,Goalkeeper,75000.0
 2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Khatul Anuar,22,27,Goalkeeper,Goalkeeper,50000.0
@@ -3321,7 +3321,7 @@ SEASON,TEAM,TEAM_CLEANED,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,PDRM FC,PDRM FC,Deok Um,-,25,Midfielder,Midfielders,3346.0
 2024,PDRM FC,PDRM FC,Chidi Osuchukwu,23,31,Central Midfield,Midfielders,250000.0
 2024,PDRM FC,PDRM FC,Aremu Timothy,30,22,Central Midfield,Midfielders,50000.0
-2024,PDRM FC,PDRM FC,Amirul Hakim Safian,14,24,Central Midfield,Midfielders,10000.0
+2024,PDRM FC,PDRM FC,Amirul Hakim Safian,14,25,Central Midfield,Midfielders,10000.0
 2024,PDRM FC,PDRM FC,Shazrin Abu Samah,16,24,Central Midfield,Midfielders,3351.0
 2024,PDRM FC,PDRM FC,Eizrul Ashraf,34,24,Attacking Midfield,Midfielders,50000.0
 2024,PDRM FC,PDRM FC,Shafizi Iqmal Khirudin,55,25,Attacking Midfield,Midfielders,50000.0
@@ -3413,9 +3413,9 @@ SEASON,TEAM,TEAM_CLEANED,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR
 2024,Kedah Darul Aman FC,Kedah Darul Aman FC,Kadim As Syahid,68,20,Attacking Midfield,Forwards,3616.0
 2024,Kuala Lumpur City FC,Kuala Lumpur City FC,Khairul Naim,34,24,Centre-Back,Defenders,3632.0
 2024,Perak FC,Perak FC,Hafizy Daniel,31,22,Defender,Defenders,3658.0
-2024,Kuching City,Kuching City,Ahmad Uzair Zaidil,1,26,Goalkeeper,Defenders,3686.0
-2024,Kuching City,Kuching City,Amirrul Iqmal Bolhi,23,27,Centre-Forward,Forwards,3718.0
-2024,Kuching City,Kuching City,Hazwan Bakri,33,33,Centre-Forward,Goalkeeper,3719.0
+2024,Kuching City,Kuching City FC,Ahmad Uzair Zaidil,1,26,Goalkeeper,Defenders,3686.0
+2024,Kuching City,Kuching City FC,Amirrul Iqmal Bolhi,23,27,Centre-Forward,Forwards,3718.0
+2024,Kuching City,Kuching City FC,Hazwan Bakri,33,33,Centre-Forward,Goalkeeper,3719.0
 2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Arip Amiruddin,2,31,Centre-Back,Defenders,3727.0
 2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Umeir Aznan,21,24,Centre-Back,Defenders,3728.0
 2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Nasrol Amri,14,24,Right-Back,Defenders,3733.0
