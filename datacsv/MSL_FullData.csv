@@ -2061,7 +2061,7 @@ SEASON,TEAM,TEAM_CLEANED,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR,PLAY
 2021,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Farizal Marlias,1,34,Goalkeeper,Goalkeeper,275000.0,https://www.transfermarkt.com/farizal-marlias/profil/spieler/228915,Malaysia
 2021,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Izham Tarmizi,24,29,Goalkeeper,Goalkeeper,50000.0,https://www.transfermarkt.com/izham-tarmizi/profil/spieler/215370,Malaysia
 2021,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Haziq Nadzli,26,22,Goalkeeper,Goalkeeper,50000.0,https://www.transfermarkt.com/haziq-nadzli/profil/spieler/480240,Malaysia
-2021,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Jordi Amat,-,28,Centre-Back,Defenders,1500000.0,https://www.transfermarkt.com/jordi-amat/profil/spieler/85289,Indonesia
+2021,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Jordi Amat,-,28,Centre-Back,Defenders,1500000.0,https://www.transfermarkt.com/jordi-amat/profil/spieler/85289,Spain
 2021,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Maurício,33,32,Centre-Back,Defenders,475000.0,https://www.transfermarkt.com/mauricio/profil/spieler/67864,Brazil
 2021,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Shane Lowry,14,31,Centre-Back,Defenders,350000.0,https://www.transfermarkt.com/shane-lowry/profil/spieler/61576,Australia
 2021,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Shahrul Saad,32,27,Centre-Back,Defenders,300000.0,https://www.transfermarkt.com/shahrul-saad/profil/spieler/210769,Malaysia
@@ -2448,7 +2448,7 @@ SEASON,TEAM,TEAM_CLEANED,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR,PLAY
 2022,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Farizal Marlias,1,35,Goalkeeper,Goalkeeper,200000.0,https://www.transfermarkt.com/farizal-marlias/profil/spieler/228915,Malaysia
 2022,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Haziq Nadzli,26,23,Goalkeeper,Goalkeeper,75000.0,https://www.transfermarkt.com/haziq-nadzli/profil/spieler/480240,Malaysia
 2022,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Syihan Hazmi,33,25,Goalkeeper,Goalkeeper,25000.0,https://www.transfermarkt.com/syihan-hazmi/profil/spieler/484748,Malaysia
-2022,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Jordi Amat,5,29,Centre-Back,Defenders,1400000.0,https://www.transfermarkt.com/jordi-amat/profil/spieler/85289,Indonesia
+2022,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Jordi Amat,5,29,Centre-Back,Defenders,1400000.0,https://www.transfermarkt.com/jordi-amat/profil/spieler/85289,Spain
 2022,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Shane Lowry,14,32,Centre-Back,Defenders,300000.0,https://www.transfermarkt.com/shane-lowry/profil/spieler/61576,Australia
 2022,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Shahrul Saad,32,28,Centre-Back,Defenders,250000.0,https://www.transfermarkt.com/shahrul-saad/profil/spieler/210769,Malaysia
 2022,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Adam Nor Azlin,-,25,Centre-Back,Defenders,200000.0,https://www.transfermarkt.com/adam-nor-azlin/profil/spieler/483683,Malaysia
@@ -3010,7 +3010,7 @@ SEASON,TEAM,TEAM_CLEANED,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR,PLAY
 2024,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Enzo Lombardo,7,27,Left Winger,Midfielders,400000.0,https://www.transfermarkt.com/enzo-lombardo/profil/spieler/443290,France
 2024,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Arif Aiman,42,22,Right Winger,Midfielders,550000.0,https://www.transfermarkt.com/arif-aiman/profil/spieler/803158,Malaysia
 2024,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Ramadhan Saifullah,17,23,Right Winger,Forwards,150000.0,https://www.transfermarkt.com/ramadhan-saifullah/profil/spieler/631136,Malaysia
-2024,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Mohamadou Sumareh,26,30,Right Winger,Forwards,100000.0,https://www.transfermarkt.com/mohamadou-sumareh/profil/spieler/480258,Malaysia
+2024,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Mohamadou Sumareh,26,30,Right Winger,Forwards,100000.0,https://www.transfermarkt.com/mohamadou-sumareh/profil/spieler/480258,The Gambia
 2024,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Fernando Forestieri,45,34,Second Striker,Forwards,700000.0,https://www.transfermarkt.com/fernando-forestieri/profil/spieler/44948,Argentina
 2024,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Heberty,37,36,Second Striker,Forwards,350000.0,https://www.transfermarkt.com/heberty/profil/spieler/175254,Brazil
 2024,Johor Darul Ta'zim,Johor Darul Ta'zim FC,Jorge Obregón,99,27,Centre-Forward,Forwards,500000.0,https://www.transfermarkt.com/jorge-obregon/profil/spieler/414773,Colombia
@@ -3192,7 +3192,7 @@ SEASON,TEAM,TEAM_CLEANED,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR,PLAY
 2024,Kuala Lumpur City FC,Kuala Lumpur City FC,Paulo Josué,28,35,Attacking Midfield,Midfielders,275000.0,https://www.transfermarkt.com/paulo-josue/profil/spieler/377149,Brazil
 2024,Kuala Lumpur City FC,Kuala Lumpur City FC,J. Partiban,16,31,Left Winger,Midfielders,150000.0,https://www.transfermarkt.com/j-partiban/profil/spieler/523856,Malaysia
 2024,Kuala Lumpur City FC,Kuala Lumpur City FC,Patrick Reichelt,11,36,Left Winger,Midfielders,100000.0,https://www.transfermarkt.com/patrick-reichelt/profil/spieler/138578,Germany
-2024,Kuala Lumpur City FC,Kuala Lumpur City FC,Sean Giannelli,17,27,Right Winger,Midfielders,100000.0,https://www.transfermarkt.com/sean-giannelli/profil/spieler/873955,Malaysia
+2024,Kuala Lumpur City FC,Kuala Lumpur City FC,Sean Giannelli,17,28,Right Winger,Midfielders,100000.0,https://www.transfermarkt.com/sean-giannelli/profil/spieler/873955,Malaysia
 2024,Kuala Lumpur City FC,Kuala Lumpur City FC,Arif Shaqirin,29,24,Right Winger,Midfielders,75000.0,https://www.transfermarkt.com/arif-shaqirin/profil/spieler/631134,Malaysia
 2024,Kuala Lumpur City FC,Kuala Lumpur City FC,Jovan Motika,7,26,Right Winger,Midfielders,50000.0,https://www.transfermarkt.com/jovan-motika/profil/spieler/406138,Bosnia-Herzegovina
 2024,Kuala Lumpur City FC,Kuala Lumpur City FC,S. Sharvin,77,24,Right Winger,Midfielders,50000.0,https://www.transfermarkt.com/s-sharvin/profil/spieler/1085935,Malaysia
@@ -3273,7 +3273,7 @@ SEASON,TEAM,TEAM_CLEANED,PLAYER,NUMBER,AGE,POSITION,POSITION_TYPE,VALUE_EUR,PLAY
 2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Ri-gwan Kim,3,21,Centre-Back,Defenders,50000.0,https://www.transfermarkt.com/ri-gwan-kim/profil/spieler/911687,"Korea, South"
 2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Arip Amiruddin,2,31,Centre-Back,Defenders,3299.0,https://www.transfermarkt.com/arip-amiruddin/profil/spieler/483825,Malaysia
 2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Umeir Aznan,21,24,Centre-Back,Defenders,3300.0,https://www.transfermarkt.com/umeir-aznan/profil/spieler/993012,Malaysia
-2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Afzal Akbar,11,25,Left-Back,Defenders,25000.0,https://www.transfermarkt.com/afzal-akbar/profil/spieler/1000652,Malaysia
+2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Afzal Akbar,11,26,Left-Back,Defenders,25000.0,https://www.transfermarkt.com/afzal-akbar/profil/spieler/1000652,Malaysia
 2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Hafizal Mohamad,29,31,Right-Back,Defenders,125000.0,https://www.transfermarkt.com/hafizal-mohamad/profil/spieler/523727,Malaysia
 2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Ghaffar Abdul Rahman,4,26,Right-Back,Defenders,100000.0,https://www.transfermarkt.com/ghaffar-abdul-rahman/profil/spieler/939676,Malaysia
 2024,Kelantan Darul Naim,Kelantan Darul Naim FC,Irwan Syazmin Wahab,19,29,Right-Back,Defenders,25000.0,https://www.transfermarkt.com/irwan-syazmin-wahab/profil/spieler/546322,Malaysia
